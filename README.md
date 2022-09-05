@@ -1,5 +1,5 @@
 # spring-boot-jpa-test
-Spring Boot, JPA, Custom JPA, Testing, and MariaDB
+Spring Boot, JPA, Custom JPA, JPQL Query, Native Query, Testing, and MariaDB
 <br>
 Testing Structure
 <br>
