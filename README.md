@@ -23,7 +23,7 @@ JPA many to one with course
 <br>
 8 Testing(Testing Structure)
 <br>
-![image](https://user-images.githubusercontent.com/36573782/188329062-8129f514-df0a-4650-b731-deb59851989a.png)
+![image](https://user-images.githubusercontent.com/36573782/188721647-c2437e93-aba7-4a23-8e3f-2027fde64615.png)
 <br>
 9 MariaDB
 <br>
