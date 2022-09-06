@@ -9,9 +9,11 @@
 <br>
 6 Native Query
 <br>
-7 One to One Relationship in tables
+7 One to One Relationship with course_material and One to many with teacher
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/188506533-25b9c5e3-6fd0-4cd9-a264-6bebc2c58b9d.png)
+<br>
+![image](https://user-images.githubusercontent.com/36573782/188713430-c06622ed-62e8-4ae6-a992-b44cc1c9205d.png)
 <br>
 8 Testing(Testing Structure)
 <br>
