@@ -21,6 +21,10 @@ JPA many to one with course
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/188721470-f077c0eb-39c1-443e-8c9b-56388caffac0.png)
 <br>
+JPA many to many with student
+<br>
+![image](https://user-images.githubusercontent.com/36573782/188962058-bf2d70da-8166-440d-b598-a31451a3a635.png)
+<br>
 8 Testing(Testing Structure)
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/188721647-c2437e93-aba7-4a23-8e3f-2027fde64615.png)
